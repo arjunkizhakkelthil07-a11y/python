@@ -1,2 +1,4 @@
 for letter in 'arjun':
-    if letter=='e' or letter=='s'
+    if letter=='j' or letter=='n':
+        break
+    print('current letter:',letter)
